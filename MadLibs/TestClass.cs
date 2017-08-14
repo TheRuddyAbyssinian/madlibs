@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace MadLibs
 {
-    class Program
+    class TestClass
     {
-        static void Main(string[] args)
-        {
-            // ahoy matey
-            int hoi;
-        }
+        int hiIAmTem = 3;
     }
 }
